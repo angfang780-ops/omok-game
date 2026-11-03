@@ -2,7 +2,7 @@
   "name": "오목",
   "short_name": "오목",
   "lang": "ko",
-  "id": "/omok-game/",
+  "id": "/omok-game/app2",
   "start_url": "./",
   "scope": "./",
   "display": "fullscreen",
